@@ -4,7 +4,7 @@
 
 **Scenario is the agentic creative platform.** Build workflows across image, video, audio and 3D, or just describe it and Genie does the rest. One platform for creatives, one API for developers, one MCP for agents.
 
-- 🤖 **Agents**: [Scenario skills](https://github.com/scenario-labs/skills) and the [MCP server](https://mcp.scenario.com) for Claude Code, Cursor, Codex and 70+ more
+- 🤖 **Agents**: [Scenario skills](https://github.com/scenario-labs/skills) and the [MCP server](https://mcp.scenario.com) for Claude Code, Cursor, Codex and 70+ more · `npx skills add scenario-labs/skills`
 - 🎮 **Your tools**: [Blender](https://github.com/scenario-labs/blender-plugin) · [Unity](https://github.com/scenario-labs/Scenario-Unity) · [Godot](https://github.com/scenario-labs/godot-plugin)
 - 🛠️ **API**: [docs.scenario.com](https://docs.scenario.com) · `npm i @scenario-labs/sdk` · `pip install scenario-sdk`
 
